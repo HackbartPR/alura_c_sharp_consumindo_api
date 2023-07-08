@@ -1,0 +1,15 @@
+C:\Users\carlos.hackbart\Documents\Estudos\Consumindo API de Musicas\Consumindo API de Musicas\bin\Debug\net6.0\Consumindo API de Musicas.exe
+C:\Users\carlos.hackbart\Documents\Estudos\Consumindo API de Musicas\Consumindo API de Musicas\bin\Debug\net6.0\Consumindo API de Musicas.deps.json
+C:\Users\carlos.hackbart\Documents\Estudos\Consumindo API de Musicas\Consumindo API de Musicas\bin\Debug\net6.0\Consumindo API de Musicas.runtimeconfig.json
+C:\Users\carlos.hackbart\Documents\Estudos\Consumindo API de Musicas\Consumindo API de Musicas\bin\Debug\net6.0\Consumindo API de Musicas.dll
+C:\Users\carlos.hackbart\Documents\Estudos\Consumindo API de Musicas\Consumindo API de Musicas\bin\Debug\net6.0\Consumindo API de Musicas.pdb
+C:\Users\carlos.hackbart\Documents\Estudos\Consumindo API de Musicas\Consumindo API de Musicas\obj\Debug\net6.0\Consumindo API de Musicas.csproj.AssemblyReference.cache
+C:\Users\carlos.hackbart\Documents\Estudos\Consumindo API de Musicas\Consumindo API de Musicas\obj\Debug\net6.0\Consumindo API de Musicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.hackbart\Documents\Estudos\Consumindo API de Musicas\Consumindo API de Musicas\obj\Debug\net6.0\Consumindo API de Musicas.AssemblyInfoInputs.cache
+C:\Users\carlos.hackbart\Documents\Estudos\Consumindo API de Musicas\Consumindo API de Musicas\obj\Debug\net6.0\Consumindo API de Musicas.AssemblyInfo.cs
+C:\Users\carlos.hackbart\Documents\Estudos\Consumindo API de Musicas\Consumindo API de Musicas\obj\Debug\net6.0\Consumindo API de Musicas.csproj.CoreCompileInputs.cache
+C:\Users\carlos.hackbart\Documents\Estudos\Consumindo API de Musicas\Consumindo API de Musicas\obj\Debug\net6.0\Consumindo API de Musicas.dll
+C:\Users\carlos.hackbart\Documents\Estudos\Consumindo API de Musicas\Consumindo API de Musicas\obj\Debug\net6.0\refint\Consumindo API de Musicas.dll
+C:\Users\carlos.hackbart\Documents\Estudos\Consumindo API de Musicas\Consumindo API de Musicas\obj\Debug\net6.0\Consumindo API de Musicas.pdb
+C:\Users\carlos.hackbart\Documents\Estudos\Consumindo API de Musicas\Consumindo API de Musicas\obj\Debug\net6.0\Consumindo API de Musicas.genruntimeconfig.cache
+C:\Users\carlos.hackbart\Documents\Estudos\Consumindo API de Musicas\Consumindo API de Musicas\obj\Debug\net6.0\ref\Consumindo API de Musicas.dll
